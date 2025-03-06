@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kamalnath</h1>
 
 <h3 align="center">I am a Full Stack Robotics Engineer 😇 🤖 🎮 </h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=kamalnath26 alt=kamalnath26/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=bathirappan-k alt=bathirappan-k/> </p>
 
 - 🔭 I’m currently working on **Mobile & Field Robotics**
 
@@ -189,7 +189,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalnath26&show_icons=true&locale=en&layout=compact" alt="kamalnath26" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bathirappan-k&show_icons=true&locale=en&layout=compact" alt="bathirappan-k" /></p>
 
 
-<!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=kamalnath26&show_icons=true alt=kamalnath26 /> </p> -->
+<!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=bathirappan-k&show_icons=true alt=bathirappan-k /> </p> -->
